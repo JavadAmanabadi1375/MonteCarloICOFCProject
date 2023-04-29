@@ -13,6 +13,8 @@ namespace MonteCarloICOFCProject
     {
         public static void Main(string[] args)
         {
+            ///Just for test
+
             CreateHostBuilder(args).Build().Run();
         }
 
